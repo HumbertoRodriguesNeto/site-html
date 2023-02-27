@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html  lang ="pt-br">
+<head>
+    <meta  charset =" UTF-8 ">
+    <meta  http-equiv =" X-UA-Compatible " content =" IE=edge " >
+    <meta  name =" janela de visualização " conteúdo =" largura=largura do dispositivo, escala inicial=1,0 ">
+    <title> Página - Módulo I - Primeiros Passos com HTML </title >
+</head>
+<body>
+    <h1 id="inicio"> Módulo 1 - Primeiros Passos com HTML </h1>
+    <h/>
+
+    <h2 > Índice </h2 >
+    <p > <strong > <u > INSTRUÇÕES: </u >  </strong > Neste índice você deve colocar os ensinamentos que mais entenderam. Estas apenas são sugestões. </p> 
+    <ul> 
+        <li > <a href =" #historias " > História dos computadores </a > </li >
+        <li > <a href =" #clientes " > O que são <i > Clientes </i > ? </a > </li >
+        <li > <a href =" #servidores " > O que são <i > Servidores </i > ? </a > </li >
+        <li > <a href =" #estrutura " > Como é uma estrutura básica de um HTML? </a > </li>
+        <li > <a href =" #diferença " > Entendendo a diferença entre listas ordenadas e não ordenadas </a > </li >
+        <li > <a href =" #referencias " > Links de referências </a > </li >
+    </ul> 
+
+    <h2 id="historias"> História dos computadores </h2 >
+      <small><a href="#inicio">voltar</a></small>
+     
+    <p><strong><i><u>O computador</u></i></strong> é um equipamento que a maioria das pessoas utiliza. Seja para trabalho ou lazer, ele está presente em grande parte das residências e dos estabelecimentos. No entanto, você conhece a sua trajetória? Então, continue a leitura para saber mais sobre a evolução dos computadores.
+      Não é de hoje que vemos a evolução dos computadores, desde o seu tamanho até mesmo outras características que vão se diferenciando entre si ao longo dos anos.
+      Hoje em dia, diversos aparelhos cabem nas nossas mãos e, independente de suas dimensões, oferecem-nos uma infinidade de benefícios.
+      O primeiro dos primeiros na evolução dos computadores
+      O primeiro computador foi criado entre 1943 e 1946 e se chamava Eletronic Numerical Integrator and Computer — ENIAC.
+      <br><br>
+      Para o seu desenvolvimento, foi investido cerca de 6 milhões de dólares e seu funcionamento dependia de uma série de fatores, como 200 mil watts de energia.
+      Um fator de grande importância é a memória, algo que não tinha na época do ENIAC. Cerca de 10 anos depois, foi lançado o RAMAX 305, uma máquina de armazenamento em disco feito pela IBM.
+      No começo, só empresas e certas instituições faziam uso de um computador e, com o passar do tempo, essa tecnologia seria acessada por todos.
+      Sistema operacional
+      Por volta de 1980, a IBM liderava o ramo da computação com o desenvolvimento do sistema operacional 86-DOS e a Microsoft começava a desenvolver suas ideias e ofereceu o seu próprio sistema operacional para a IBM. Ao fechar o acordo, Bill Gates comprou o 86-DOS 1.10 da IBM e o sistema operacional acabou sendo propriedade exclusiva da Microsoft.
+      A Microsoft acabou vendendo também o seu sistema operacional para outras empresas, garantindo assim a evolução dos computadores para as pessoas.
+      A evolução dos computadores
+      Em 1993, surgiu a World Wide Web, mais conhecida como WWW. Além disso, o celular começava a surgir para atender as necessidades das empresas. Do ENIAC para o primeiro smartphone, passaram-se cerca de 70 anos e a história não para por aí.
+      Vemos que a cada dia mais surgem novas tecnologias com melhores chances de armazenamento e velocidade.
+      <br><br> 
+      Nos dias atuais, vemos, por exemplo, o quanto a tecnologia em nuvem tem agregado na rotina de pessoas e empresas, ainda mais em uma rotina home office como temos vivenciado.
+      Ou seja, os avanços tecnológicos são essenciais em nosso cotidiano e só nos trazem benefícios, como praticidade, segurança e agilidade.
+      Sistema em nuvem da Contmatic Phoenix
+      <br><br>
+      A Contmatic Phoenix vem acompanhando de perto esta evolução e apresenta vantagens exclusivas em tecnologias para contadores e para empresas através de sistemas em nuvem para o seu negócio. Com modernos e precisos softwares, você ganha performance e otimiza toda a sua rotina de trabalho.
+
+      <small><a target="_blank" href="https://www.tecmundo.com.br/tecnologia-da-informacao/1697-a-historia-dos-computadores-e-da-computacao.htm">Saiba mais</a></small>
+      
+       </p>
+
+    <h2 id="clientes"> O que são <i> Clientes </i> ? </h2>
+    <small><a href="#inicio">voltar</a></small>
+    <p> 
+      Um <strong><i>cliente</i></strong> é geralmente usado para se referir a um actual ou potencial comprador ou usuário dos produtos de um indivíduo ou organização, chamado o fornecedor ou vendedor. Isto acontece normalmente através da compra ou aluguel de bens ou serviços.
+      Um dos casos aprendemos sobre <strong><i><u>client x server</u></i></strong> Que seria clente e servidor, para que possamos entender exatamente a função de cada um e entender como o HTML e as linguagens de programação atuam, tanto do lado do cliente quanto do servidor, que seria o prestador do serviço.
+      <br><br>
+      Cliente é o lado que consome a informações de algum lugar
+      É o dispositivo que está consumindo aquela informação na internet
+      Pc, notebook, celulares se comunicam através da internet com outro computador
+      Rede mundial de computadores ( Rede de computadores interligados - usando a internet como meio de comunicação)
+      Servidor - serve informções para os clientes
+      <br><br>
+      Acesso em um site.
+      O usuário acessa a internet, e recebe de um servidor arquivos estáticos: HTML, CSS, JavaScript, Imagens… e o tanto de códigos HTML pode influenciar na velocidade da abertura do site, se a internet do usuário não for muito boa.
+      Por conta disso o navegador da internet salva informações e arquivos do site dentro do computador do usuário para facilitar nas próximas vezes que o usuário solicitar a abertura do site em um outro momento, fazendo como que o navegador não precise ir até o servidor para buscar esses arquivos e informações ( o nome dessa operação é CACHE ). E o F5 o famoso atualizar, apaga o cache e busca novamente o site no servidor atualizando as informações do site.
+      
+      <small><a target="_blank" href="https://addee.com.br/blog/sucesso-do-cliente/">Saiba mais</a></small>
+
+    </p>
+
+    <h2 id="servidores"> O que são <i> Servidores </i> ? </h2>
+    <small><a href="#inicio">voltar</a></small>
+    <p> 
+      Um <strong><i>servidor</i></strong> é um computador equipado com um ou mais processadores, bancos de memória, portas de comunicação, softwares e, ocasionalmente, algum sistema para armazenamento de dados, como hard disks internos ou memórias SSD.
+      <br><br>
+      O termo servidor também define um recurso dentro de um sistema computacional maior, capaz de processar aplicações, prestar serviços e armazenar dados. Esses sistemas podem ser físicos ou virtuais, estarem instalados local ou remotamente. Normalmente, são escaláveis e possuem alto poder de processamento.
+      <br><br>
+      Capazes de executar um conjunto específico de programas ou protocolos para fornecer serviços para outras máquinas ou clientes, servidores são equipamentos dedicados a executar aplicações e serviços dentro de uma rede LAN ou WAN.
+      
+      <small><a target="_blank" href="https://www.controle.net/faq/o-que-sao-servidores">Saiba mais</a></small>
+    </p>
+
+    <h2 id="estrutura"> Como é uma estrutura básica de um HTML? </h2>
+    <small><a href="#inicio">voltar</a></small>
+    <p>
+      O documento <strong><i>HTML</i></strong> sempre inicia com o que chamamos de estrutura básica. Esta estrutura é quase que imutável. Sempre será dessa forma e você sempre, sempre começará seu HTML começando por esse código. Geralmente os editores como o Sublime Text já tem atalhos para iniciar os documentos HTMLs com essa estrutura, logo, você não precisa se preocupar em decorá-la, mas é bom que faça.
+      <br><br>
+      É possível compreender o documento em HTML de uma maneira muito simples, através de uma divisão de blocos das tags essenciais, conforme a a seguinte estrutura:
+      <br>
+      Definição do documento (doctype),Cabeça (head),Corpo (body)
+      <br><br>
+      Doctype - Definindo o documento
+      Uma coisa importante: SEMPRE deve existir o doctype, que é este código <! DOCTYPE html>.
+      <br>
+      O doctype não é uma tag HTML, mas uma instrução para o navegador e outros programas que podem ler seu site, que o código encontrado ali é um código HTML. Assim eles sabem o que fazer para mostrar seu site da melhor forma possível. Lembre-se: o doctype é OBRIGATÓRIO e deve ser sempre a PRIMEIRA LINHA do seu documento.
+      <br><br>
+      HEAD
+      Contém informações que não são transpostas visivelmente para o usuário/leitor do documento. São dados implícitos, de uso e controle do documento: vinculação com outros arquivos, aplicação de lógica de programação de scripts e metadados. Na prática, todo o conteúdo do cabeçalho fica delimitado entre a abertura e fechamento tag head.
+      <br><br>
+      BODY
+      Trata-se do documento em si, ou seja, a informação legível para o usuário/leitor do documento. É todo e qualquer texto que se deseja apresentar, assim como toda e qualquer forma de mídia de saída (imagens, sons, miniaplicativos embutidos, conteúdo multimídia, etc). Além disso, toda a apresentação de entrada de dados (formulários) também se aplica neste seção do documento. Na prática, o corpo do documento é delimitado pelo par de tags < body> e </ body>.
+      <br><br>
+      Este é o preceito básico que deve estar muito bem claro para você: onde as marcações se aplicam, e quais são os resultados deste modelo. Por exemplo: se vocês deseja informar conteúdo textual para saída legível ao usuário do seu sistema web, esta marcação deverá obrigatoriamente estar no bloco do corpo da página. Ainda: para definir qual o tipo de codificação da página (uma meta informação do documento), esta deve obrigatoriamente estar marcada no cabeçalho do mesmo documento.
+      <br><br>
+      Dentro do elemento BODY sua estrutura de página terá os elementos semânticos da construção da sua página, onde serão declarados e identificados cabeçalhos, rodapé, conteúdo principal, etc.
+      
+      <small><a target="_blank" href="https://tableless.github.io/iniciantes/manual/html/estruturabasica.html">Saiba mais</a></small>
+
+    </p> 
+
+    <h2 id="diferença">Entendendo a diferença entre listas ordenadas e não ordenadas</h2>
+      <small><a href="#inicio">voltar</a></small>
+    <p> 
+      Lista é um importante recurso de HTML, pois permite criarmos tópicos de textos para uma melhor exemplificação de um determinado assunto. São recursos extremamente usados, inclusive quando nem imaginamos que ele esta sendo usado, como no caso de menus. Hoje, boa parte dos menus em HTML é feito com listas.
+      <br><br>
+      <strong>Listas não ordenadas</strong>
+      As listas não numeradas são usadas para listar itens, sem se preocupar com sua sequência. Chamamos de lista de marcadores apenas.
+      <br><br>
+      As tags usadas para criar uma lista não ordenada são < ul> e < li>. A tag < ul> é usada para definir a lista e a tag < li> é usada para cada item da lista.
+      <br><br>
+      Em que situação as listas não ordenadas são usadas?
+      <br>
+      É o tipo mais comum no HTML portanto ela tem uma aplicação bastante ampla. Um dos casos clássicos de uso de lista não ordenada e para construção de menu de navegação desses que fica na parte superior dos sites ou na parte lateral. Normalmente utiliza-se a lista e faz a formatação dela em CSS e interação em Javascript para dar animação o menu, quando necessário. 
+      <br><br>
+      <strong>Listas ordenadas ou numerada</strong>
+      As listas ordenadas ou numeradas são usadas para indicar alguma sequência ou numeração
+      <br>
+      As tags usadas para criar uma lista não ordenada são < ol> e < li>. A tag < ol> é usada para definir a lista e a tag < li> é usada para cada item da lista. 
+      <br><br>
+      Quando a lista ordenada é mais usada?
+
+      A lista ordenada ela já tem um propósito um pouco mais específico que a colocar os itens da lista numa determinada ordem portanto ela é de uso mais limitado, mas ainda assim você vai encontrar em diversos textos quando há necessidade de fazer uma relação de itens nesse e neste caso a posição de cada item na lista é importante, portanto usa-se a lista ordenada.
+
+      <small><a target="_blank" href="https://www.luis.blog.br/listas-ordenadas-nao-ordenadas-e-de-definicao.htmlx'">Saiba mais</a></small>
+
+
+      
+    </p> 
+    
+
+    <h2 id="referencias"> Links de referência </h2>
+    <small><a href="#inicio">voltar</a></small>
+    <ul> 
+        <li> <a target="_blank" href ="https://web.dio.me/" > http://dio.me </a > </li >
+        <li> <a target="_blank" href ="http://w3c.org" > http://w3c.org </a > </li >
+         <small><a href="#inicio">voltar</a></small>
+    </ul> 
+
+</body>
+</html> 
